@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.logoutbutton {
+  background-color: #f8fafc;
+  color: #b5b9ff;
+  padding: 10px;
+  border-radius: 15px;
+  font-family: 'roboto';
+  font-weight: bold;
+  border: none;
+  width: 100px;
+}

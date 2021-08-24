@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.loginapp_bg {
+  background-color: #f8fafc;
+  align-items: center;
+  height: 100vh;
+  justify-content: center;
+  display: flex;
+}
+
+.logincontainer {
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border-radius: 15px;
+  width: 40%;
+  height: 40%;
+}
